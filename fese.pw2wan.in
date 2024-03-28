@@ -1,0 +1,8 @@
+&inputpp 
+   prefix             = 'fese_soliddmft'
+   outdir             = './QE_tmp/',
+   seedname           = 'fese'
+   write_mmn          = .true.
+   write_amn          = .true.
+   write_unk          = .false.
+/
